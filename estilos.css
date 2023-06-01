@@ -1,0 +1,35 @@
+.city1 {
+	background-color: rgb(208, 47, 47);
+	color: rgb(255, 255, 255);
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+
+
+}
+.city2{
+    background-color: rgb(255, 255, 255);
+	color: rgb(187, 66, 66);
+	border: 2px solid rgb(138, 66, 66);
+	margin: 20px;
+	padding: 20px;
+}
+.city3{
+    background-color: rgb(145, 58, 58);
+	color: rgb(255, 255, 255);
+	border: 2px solid rgb(138, 66, 66);
+	margin: 20px;
+	padding: 20px;
+}
+.td{
+    background-color:rgb(244, 186, 186);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+	border: 2px solid rgb(138, 66, 66);
+	margin: 20px;
+	padding: 20px;
+}
+a{
+    text-decoration-line: none;
+    color: rgb(12, 11, 11);
+}
